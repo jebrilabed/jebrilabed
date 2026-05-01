@@ -53,9 +53,9 @@ Focused on building real-world applications with performance, usability, and cle
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jebrilabed&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jebrilabed&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebrilabed&layout=compact&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jebrilabed&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jebrilabed&theme=tokyonight)
 
