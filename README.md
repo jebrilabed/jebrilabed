@@ -27,7 +27,7 @@ I design and build modern frontend systems with focus on performance, maintainab
 ## Tech Stack
 
 **Core**
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
 
 **Frameworks**
 - React.js
@@ -36,6 +36,8 @@ I design and build modern frontend systems with focus on performance, maintainab
 **Styling**
 - Tailwind CSS
 - CSS Modules
+- Material UI
+- Bootstrap
 
 **Tools**
 - Git & GitHub
