@@ -67,7 +67,7 @@ Focused on building real-world applications with performance, usability, and cle
 
 ## Contact
 
-- 📧 Email: jebrilaabed@gmail.com  
+- 📧 Email: [jebrilaabed@gmail.com](https://mail.google.com/mail/?view=cm&to=jebrilaabed@gmail.com)  
 - 💼 LinkedIn: https://www.linkedin.com/in/jebril-aabed  
 - 💬 WhatsApp: https://wa.me/qr/OK4HMSQXWPT2C1  
 - 🌐 Portfolio: https://jebril-aabed-portfolio.vercel.app/
