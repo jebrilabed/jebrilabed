@@ -1,85 +1,114 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&width=700&lines=Frontend+Developer;React+%2F+Next.js;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&width=700&lines=Frontend+Developer;React+%2F+Next.js+%2F+TypeScript;Building+Production-Ready+Web+Applications)](https://git.io/typing-svg)
 
 ![Banner](https://raw.githubusercontent.com/jebrilabed/jebrilabed/main/banner.png)
 
 # Jebril Abed
 
-Frontend Developer focused on building scalable, performant, and production-ready web applications.
+**Frontend Developer | React · Next.js · TypeScript**
+
+I build modern web applications with a focus on performance, maintainability, and user experience. My work centers on creating reliable frontend architectures, reusable components, and intuitive interfaces that solve real-world problems.
 
 ---
 
-## Profile Summary
+## About Me
 
-I design and build modern frontend systems with focus on performance, maintainability, and user experience. I treat UI as a system, not just pages.
-
----
-
-## Engineering Focus
-
-- Scalable frontend architectures  
-- Performance optimization (rendering, bundle size, UX)  
-- Component-driven design systems  
-- Maintainable and reusable codebases  
-- Real-world production constraints  
+- Focused on building production-ready web applications with React and Next.js.
+- Interested in frontend architecture, performance optimization, and maintainable code.
+- Experienced in integrating APIs, managing application state, and working with databases.
+- Building full-stack features when needed, with FastAPI for backend development.
+- Exploring AI-powered applications using Gemini, LangChain, and RAG.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Core**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-
-**Frameworks**
+### Frontend Development
 - React.js
 - Next.js
-
-**Styling**
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 & CSS3
 - Tailwind CSS
-- CSS Modules
-- Material UI
-- Bootstrap
+- Material UI (MUI)
+- Responsive Design
+- Component-Based Architecture
 
-**Tools**
+### Backend Development
+- Python
+- FastAPI
+- REST API Development
+- API Integration
+
+### Databases & ORM
+- PostgreSQL
+- Supabase
+- Prisma ORM
+- MongoDB
+
+### Authentication & Security
+- JWT Authentication
+- Auth.js
+- Credentials-Based Authentication
+- Role-Based Access Control (RBAC)
+
+### AI & RAG
+- Google Gemini API
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB
+- AI Tool Calling
+
+### Tools, Deployment & Testing
 - Git & GitHub
-- REST APIs
-- Responsive design systems
+- VS Code
+- Vercel
+- Render
+- Docker
+- Postman
+- k6
 
 ---
 
 ## Selected Work
 
-🌐 Portfolio:  
-https://jebril-aabed-portfolio.vercel.app/
+### E-commerce Applications
 
-Focused on building real-world applications with performance, usability, and clean architecture.
+Building Arabic-first e-commerce experiences with responsive interfaces, product and variant management, inventory handling, authentication, and order workflows.
+
+### AI-Powered Applications
+
+Exploring AI integration with FastAPI, Gemini, LangChain, and RAG to build assistants that interact with application data and support practical workflows.
+
+🌐 **Portfolio:** [jebril-aabed-portfolio.vercel.app](https://jebril-aabed-portfolio.vercel.app/)
 
 ---
 
 ## GitHub Analytics
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jebrilabed&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jebrilabed&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jebrilabed&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jebrilabed&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jebrilabed&theme=tokyonight)
-
----
-
-## Contact
-
-- 📧 Email: [jebrilaabed@gmail.com](https://mail.google.com/mail/?view=cm&to=jebrilaabed@gmail.com)  
-- 💼 LinkedIn: https://www.linkedin.com/in/jebril-aabed  
-- 💬 WhatsApp: https://wa.me/qr/OK4HMSQXWPT2C1  
-- 🌐 Portfolio: https://jebril-aabed-portfolio.vercel.app/
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jebrilabed&theme=tokyonight" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-## Engineering Mindset
+## Connect With Me
 
-Simplicity scales. Complexity fails.
+- **Email:** [jebrilaabed@gmail.com](mailto:jebrilaabed@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jebril-aabed](https://www.linkedin.com/in/jebril-aabed)
+- **Portfolio:** [jebril-aabed-portfolio.vercel.app](https://jebril-aabed-portfolio.vercel.app/)
+- **WhatsApp:** [Message me](https://wa.me/qr/OK4HMSQXWPT2C1)
 
 ---
 
 <p align="center">
-Built with focus. Shipped with discipline.
+  <i>Simplicity scales. Good engineering makes it sustainable.</i>
+</p>
+
+<p align="center">
+  Built with focus. Shipped with discipline.
 </p>
