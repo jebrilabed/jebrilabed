@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&width=700&lines=Frontend+Developer;React+%2F+Next.js+%2F+TypeScript;Building+Production-Ready+Web+Applications)](https://git.io/typing-svg)
 
-![Banner](https://raw.githubusercontent.com/jebrilabed/jebrilabed/main/banner.png)
+![Banner](https://raw.githubusercontent.com/jebrilabed/jebrilabed/main/banner1.png)
 
 # Jebril Abed
 
